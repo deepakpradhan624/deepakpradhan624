@@ -17,11 +17,21 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
      - I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
      <br />
      <br />
-    - 💬 Ask me about React.js, Node.js, JavaScript, HTML, CSS, Data Structures & Algorithms
+     - 💬 Ask me about React.js | Node.js | Data Structures & Algorithms | MERN Stack
+     <br />
+     <br />
+     - 📫 How to reach me: pradhand92041@gmail.com
+     <br />
+     <br />
+     - 👨‍💻 All of my projects are available at https://deepakpradhan624.github.io/
+     <br />
+     <br />
+     - 📝 I regularly write articles on https://medium.com/@pradhand920
 
 </h3>
 
 <br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakpradhan624" alt="deepakpradhan624" /></a> </p>
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
@@ -60,12 +70,22 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 
 <p align="left">
     <a href="https://www.linkedin.com/in/deepakpradhan1997/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
     </a>
     <a title="pradhand92041@gmail.com" href="mailto:pradhand92041@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="pradhand92041@gmail.com" />
     </a>
+    <a href="https://deepakpradhan624.github.io/">
+        <img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="" />
+    </a>
+
 </p>
 <br>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakpradhan624&show_icons=true&theme=dark&locale=en" alt="deepakpradhan624" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakpradhan624&theme=dark" alt="deepakpradhan624" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakpradhan624&show_icons=true&theme=dark&locale=en&layout=compact" alt="deepakpradhan624" /></p>
